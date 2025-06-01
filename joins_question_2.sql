@@ -63,3 +63,4 @@ LEFT JOIN Student ON Student.Department_id=Department.Department_id
 GROUP BY University.university_id,University.name
 ORDER BY University.university_id;
 
+
